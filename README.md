@@ -1,4 +1,4 @@
-# localization
+# Localization
 
 A new Flutter project example for localization .
 
