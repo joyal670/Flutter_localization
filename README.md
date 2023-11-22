@@ -1,6 +1,6 @@
 # localization
 
-A new Flutter project.
+A new Flutter project example for localization .
 
 ## Getting Started
 
